@@ -18,14 +18,18 @@ demonstrate its capabilities because this readme is yet to be made fully extensi
 ### collisions.cpp
 This program demonstrates particle physics in the library within the standard environment.
 
-![Collisions demo](https://i.imgur.com/jmPa7Ti.gif)
+![Collisions demo](demo/gif/collisions.gif)
 
 ### gas_cloud.cpp
 This program demonstrates how changing the environment attributes in the library can be used to simulate a gas cloud.
 
-![Gas cloud demo](https://i.imgur.com/FpGFm2q.gif)
+![Gas cloud demo](demo/gif/gas_cloud.gif)
 
 ### soft_body.cpp
 This program demonstrates the use of springs to create a soft body.
 
-![Soft body demo](https://i.imgur.com/egPJIZj.gif)
+![Soft body demo](demo/gif/soft_body.gif)
+
+## License
+
+This project is licensed under the MIT license. See [LICENSE.md](LICENSE.md) for details.
